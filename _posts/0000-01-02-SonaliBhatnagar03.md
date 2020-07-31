@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our third slide!"
+title: "Welcome to our second slide!"
 ---
-you are funny sonali and added new slide
+you are funny sonali 
 Use the left arrow to go back!
